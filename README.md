@@ -2,7 +2,7 @@
 
 I'm a programmer and CG/Game Dev hobbyist.
 
-You can leave me a message at [issue tab of this repo](https://github.com/sudo-bcli/sudo-bcli/issues), or follow me on [SketchFab](https://sketchfab.com/benjamin-lee). 
+You can leave me a message at [issue tab of this repo](https://github.com/sudo-bcli/sudo-bcli/issues), or follow me on [SketchFab](https://sketchfab.com/benjamin-lee) and [Deviant Art](https://www.deviantart.com/benjaminlee2020).
 
 ----
 
