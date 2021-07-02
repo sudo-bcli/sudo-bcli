@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, Meow 🐱
 
-<!--
-**sudo-bcli/sudo-bcli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+### Quick Access
+#### Applications
 
-Here are some ideas to get you started:
+* [**Shrink Shrimp**](https://github.com/sudo-bcli/shrink-shrimp): Batch shrink scanned documents (PDF)
+* [**3Deer**](https://github.com/sudo-bcli/3deer): 3D reference tool for 2D artists
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Libraries
+
+* [**color**](https://github.com/sudo-bcli/color):  GoLang colorized output for OSX and Linux shells
+
+
+#### Addons/Extensions
+
+* [**Isometric Cameras**](https://github.com/sudo-bcli/isometric-cameras): `shift-A` create isometric cameras in Blender
+
+----
