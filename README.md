@@ -8,7 +8,7 @@ You can leave me a message at [issue tab of this repo](https://github.com/sudo-b
 
 ### Applications
 
-* [**Shrink Shrimp**](https://github.com/sudo-bcli/shrink-shrimp): Batch shrink scanned documents (PDF)
+* [**Shrink Shrimp**](https://github.com/sudo-bcli/shrink-shrimp): Batch shrink scanned PDFs
 
 ### Libraries
 
