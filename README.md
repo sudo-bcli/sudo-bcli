@@ -1,4 +1,4 @@
-### Hi there 👋, Meow 🐱
+### Hi there 👋
 
 ----
 ### Quick Access
