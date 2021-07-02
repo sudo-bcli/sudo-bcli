@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I used to be a coder like you then i took an arrow in the knee.
+
 ----
 ### Quick Access
 #### Applications
@@ -9,7 +11,7 @@
 
 #### Libraries
 
-* [**color**](https://github.com/sudo-bcli/color):  GoLang colorized output for OSX and Linux shells
+* [**Color**](https://github.com/sudo-bcli/color):  Tiny GoLang colorized output library for OSX and Linux shells
 
 
 #### Addons/Extensions
