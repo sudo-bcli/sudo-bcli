@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I used to be a coder like you then i took an arrow in the knee.
+I'm a coder and game dev hobbyist.
+
+**Contact:** Please leave a message at [Issue Tab of this repo](https://github.com/sudo-bcli/sudo-bcli/issues).
 
 ----
 ### Quick Access
 #### Applications
 
 * [**Shrink Shrimp**](https://github.com/sudo-bcli/shrink-shrimp): Batch shrink scanned documents (PDF)
-* [**3Deer**](https://github.com/sudo-bcli/3deer): 3D reference tool for 2D artists
 
 #### Libraries
 
